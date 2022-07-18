@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="8" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45038" started-at="2022-07-18T19:31:32 IST" finished-at="2022-07-18T19:32:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45038" started-at="2022-07-18T19:31:32 IST" finished-at="2022-07-18T19:32:17 IST">
+      <class name="testNG.TestNG">
+        <test-method status="PASS" signature="browser()[pri:0, instance:testNG.TestNG@4abdb505]" name="browser" is-config="true" duration-ms="24968" started-at="2022-07-18T19:31:32 IST" finished-at="2022-07-18T19:31:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="click()[pri:0, instance:testNG.TestNG@4abdb505]" name="click" is-config="true" duration-ms="1" started-at="2022-07-18T19:31:57 IST" finished-at="2022-07-18T19:31:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="colse()[pri:1, instance:testNG.TestNG@4abdb505]" name="colse" duration-ms="2464" started-at="2022-07-18T19:31:57 IST" finished-at="2022-07-18T19:32:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- colse -->
+        <test-method status="PASS" signature="Closed()[pri:0, instance:testNG.TestNG@4abdb505]" name="Closed" is-config="true" duration-ms="1" started-at="2022-07-18T19:32:00 IST" finished-at="2022-07-18T19:32:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closed -->
+        <test-method status="PASS" signature="click()[pri:0, instance:testNG.TestNG@4abdb505]" name="click" is-config="true" duration-ms="0" started-at="2022-07-18T19:32:00 IST" finished-at="2022-07-18T19:32:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="enter()[pri:2, instance:testNG.TestNG@4abdb505]" name="enter" duration-ms="7257" started-at="2022-07-18T19:32:00 IST" finished-at="2022-07-18T19:32:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter -->
+        <test-method status="PASS" signature="Closed()[pri:0, instance:testNG.TestNG@4abdb505]" name="Closed" is-config="true" duration-ms="1" started-at="2022-07-18T19:32:07 IST" finished-at="2022-07-18T19:32:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closed -->
+        <test-method status="PASS" signature="click()[pri:0, instance:testNG.TestNG@4abdb505]" name="click" is-config="true" duration-ms="1" started-at="2022-07-18T19:32:07 IST" finished-at="2022-07-18T19:32:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="windowswitching()[pri:3, instance:testNG.TestNG@4abdb505]" name="windowswitching" duration-ms="20" started-at="2022-07-18T19:32:07 IST" finished-at="2022-07-18T19:32:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowswitching -->
+        <test-method status="PASS" signature="Closed()[pri:0, instance:testNG.TestNG@4abdb505]" name="Closed" is-config="true" duration-ms="4" started-at="2022-07-18T19:32:07 IST" finished-at="2022-07-18T19:32:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closed -->
+        <test-method status="PASS" signature="click()[pri:0, instance:testNG.TestNG@4abdb505]" name="click" is-config="true" duration-ms="0" started-at="2022-07-18T19:32:07 IST" finished-at="2022-07-18T19:32:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="method7()[pri:7, instance:testNG.TestNG@4abdb505]" name="method7" duration-ms="3548" started-at="2022-07-18T19:32:07 IST" finished-at="2022-07-18T19:32:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method7 -->
+        <test-method status="PASS" signature="Closed()[pri:0, instance:testNG.TestNG@4abdb505]" name="Closed" is-config="true" duration-ms="1" started-at="2022-07-18T19:32:11 IST" finished-at="2022-07-18T19:32:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closed -->
+        <test-method status="PASS" signature="click()[pri:0, instance:testNG.TestNG@4abdb505]" name="click" is-config="true" duration-ms="1" started-at="2022-07-18T19:32:11 IST" finished-at="2022-07-18T19:32:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="method8()[pri:8, instance:testNG.TestNG@4abdb505]" name="method8" duration-ms="5197" started-at="2022-07-18T19:32:11 IST" finished-at="2022-07-18T19:32:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method8 -->
+        <test-method status="PASS" signature="Closed()[pri:0, instance:testNG.TestNG@4abdb505]" name="Closed" is-config="true" duration-ms="1" started-at="2022-07-18T19:32:16 IST" finished-at="2022-07-18T19:32:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closed -->
+        <test-method status="PASS" signature="browserQuit()[pri:0, instance:testNG.TestNG@4abdb505]" name="browserQuit" is-config="true" duration-ms="1352" started-at="2022-07-18T19:32:16 IST" finished-at="2022-07-18T19:32:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- testNG.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
